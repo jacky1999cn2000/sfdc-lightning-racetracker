@@ -49,3 +49,8 @@
 * Useful Chrome Extensions
   * [Lightning inspector](https://chrome.google.com/webstore/detail/salesforce-lightning-insp/pcpmcffcomlcjgpcheokdfcjipanjdpc?hl=en)
   * [View Salesoforce1 in broswer](https://chrome.google.com/webstore/detail/s1-demo/kalbgfbifcaigjnkgagbeimcflnaijmc)
+
+### Demo
+* https://jzlightningracetracker-dev-ed.lightning.force.com
+  * liang.zhao.sfdc01@gmail.com
+  * Test.1234
