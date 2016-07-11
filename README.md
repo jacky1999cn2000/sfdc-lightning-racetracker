@@ -28,6 +28,7 @@
   * NewRace(Lightning Component)
   * ListRaces(Lightning Component)
   * Race(Lightning Component)
+  * AddToRaceList(Lightning Event)
 
 * Surfacing components to Salesforce1
   * Add `implements="force:appHostable"` to components
